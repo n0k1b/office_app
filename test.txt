@@ -1,0 +1,11 @@
+POST /office_app/api/edit HTTP/1.1
+Accept-Encoding: gzip
+Connection:      Keep-Alive
+Content-Length:  56
+Content-Type:    application/x-www-form-urlencoded
+Host:            www.allshopctg.com
+User-Agent:      okhttp/3.10.0
+X-Https:         1
+
+id=8&type=debit&amount=9001&note=Robi&date=15%2F2%2F2020
+8 debit 9001 Robi 15/2/2020

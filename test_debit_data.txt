@@ -1,0 +1,8 @@
+POST /office_app/api/send_debit_data HTTP/1.1
+Accept-Encoding: gzip
+Content-Length:  61
+Content-Type:    application/x-www-form-urlencoded
+Host:            www.allshopctg.com
+User-Agent:      okhttp/3.10.0
+
+user_id=1&debit_type=1&debited_to=&amount=500&note=test%20fan
